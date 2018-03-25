@@ -1,4 +1,4 @@
-* 35. 翻转链表
+* 35.翻转链表
 ```python
 """
 Definition of ListNode

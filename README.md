@@ -38,12 +38,12 @@ public static void main(String[] args){}
 ```javascript
 document.getElementById("ts").innerHTML="Hello"
 ```
-<br>
-  单行文本
 
-    多行文本
-    多行文本
-    多行文本
+      单行文本
+
+      多行文本
+      多行文本
+      多行文本
 
 ``部分文字高亮``
 

@@ -67,7 +67,7 @@ git commit -m "update test" //检测文件改动并附加提交注释
 git push -u origin master //提交修改到项目主线
 ```
 
-   github常用命令
+      github常用命令
 ```
 git push origin master //把本地源码库push到Github上
 git pull origin master //从Github上pull到本地源码库
